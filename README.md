@@ -1,5 +1,6 @@
 # Hi there! 👋
 
+![GIF](about.gif)
 ### I am *Aaishika Sarmistha Bhattacharya* from *SRM Institute of Science and Technology, Kattankulathur*. Here's a list of things about me:
 - 🎯 I lead the official *Campus Club* of **HackerEarth** at SRM. Check us out [here](https://www.srmhackerearth.in).
 - 💻 I am into **Web Development, Internet of Things, App Development** and **Cloud Computing**. I am up for learning new things everyday!
