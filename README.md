@@ -2,6 +2,7 @@
 
 # Hi there, I am Aaishika! 👋
 Find me in **SRM Institute of Science and Technology, Kattankulathur**, helping future developers be better!
+I love coding the most randomest of things, including **VS Code Color Extensions**, **Full Fledged Chatbots**, **Discord Server Bots** and even **Filters**!
 
 ## Here's a list of things about me:
 - 🎯 I lead the official Campus Clubs of HackerEarth and Hack Club at SRM. Check us out [here](https://www.srmhackerearth.in). I am also a Campus Ambassador at AngelHack, Coding Blocks, and Lumos Labs.
