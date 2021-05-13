@@ -36,7 +36,7 @@ All 3 ✔️? Reach out to me through the mediums mentioned below!
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-in/aaishika-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/><br>
 <img alt="Twitter" src="https://img.shields.io/badge/TWITTER - aaishika-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> <br>
 <img alt="Instagram" src="https://img.shields.io/badge/instagram-putaatoboii-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/><br>
-<img alt="Medium" src="https://img.shields.io/badge/Medium-@aaishikasb-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/><br>
+<img alt="Medium" src="https://img.shields.io/badge/Medium-@aaishika-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/><br>
 <img alt="Youtube" src="https://img.shields.io/badge/YouTube-aaishika s bhattacharya-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
 
 # Stay Hydrated! 💦
