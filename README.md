@@ -1,5 +1,7 @@
 ![Header](Header.png "Header Image")
 # Thanks for stopping by!
+![Profile Views](https://komarev.com/ghpvc/?username=aaishikasb&label=PROFILE+VIEWS)
+
 Find me in **SRM Institute of Science and Technology, Kattankulathur**, helping future developers be better! 💪
 
 I love coding the most randomest of things, including **VS Code Color Extensions**, **Full Fledged Chatbots**, **Discord Server Bots** and even **Filters**! 🤯
