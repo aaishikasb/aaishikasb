@@ -1,4 +1,4 @@
-![Header](Header.png "Header Image")
+![Header](Banner.png "Header Image")
 # Thanks for stopping by
 ![Profile Views](https://komarev.com/ghpvc/?username=aaishikasb&label=PROFILE+VIEWS)
 
