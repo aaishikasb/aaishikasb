@@ -1,8 +1,8 @@
 ![Header](Banner.png "Header Image")
-# Thanks for stopping by
+# Thanks for stopping by 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=aaishikasb&label=PROFILE+VIEWS)
 
-### Find me in SRM Institute of Science and Technology, Kattankulathur, building randomest of things and scaling communities! 💪
+### Find me building randomest of things here and scaling communities! 💪
 <br>
 
 ![GIF](https://www.learnupon.com/wp-content/uploads/@2x-Blog-Technical-Skills-animation.gif)
@@ -12,18 +12,22 @@
 
 <img alt="Polywork" src="https://img.shields.io/badge/Polywork-aaishika-%23543DE0.svg?&style=for-the-badge&logo=polywork&logoColor=white"/><br>
 
-- DevRel/Ops Intern at [Aviyel](https://www.aviyel.com)
-- Coach at [Major League Hacking](https://www.mlh.io)
+- Developer Advocate Intern at [DigitalOcean](https://www.digitalocean.com)
+- Head of Community at [codedamn](https://www.codedamn.com)
 - Mentor students and help budding developers be better
 - Active [GitHub Campus Expert](https://education.github.com/experts), [DigitalOcean Navigator](https://www.digitalocean.com/community/pages/digitalocean-navigators) and [Alexa Student Influencer](https://developer.amazon.com/en-IN/alexa/alexa-student-influencer)
-- Participate in hackathons avidly
+- GDSC Lead '21 and Hack Club Lead
+- Ambassador at [Auth0](https://auth0.com/) and [Prisma](https://www.prisma.io/)
+- Ex-Ops Intern at [Aviyel](https://www.aviyel.com)
+- Ex-Coach at [Major League Hacking](https://www.mlh.io)
+- Participate in hackathons avidly - [Devpost](https://devpost.com/aaishika)
 - Write blogs on [Medium](https://www.medium.com/@Aaishika)
 - Upload byte-sized videos on my [YouTube Channel](https://www.youtube.com/c/AaishikaSBhattacharya)
 
 ![Views](https://img.shields.io/youtube/channel/views/UCIWbBxuwFhKuiikJrrqRCUQ?style=social) ![Subs](https://img.shields.io/youtube/channel/subscribers/UCIWbBxuwFhKuiikJrrqRCUQ?style=social)
 
 # Let's Talk Numbers and Stats
-I am into Web & App Development, Cloud Computing, Internet of Things, and Development for Voice. I am also into Community Building & Management as well as Developer Relations.
+I am into Web & App Development, Cloud Computing, Internet of Things, and Development for Voice. I am also into Community Building & Management as well as Developer Advocacy.
 
 ![Aaishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaishikasb&theme=tokyonight&show_icons=true)
 
