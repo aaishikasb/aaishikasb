@@ -12,15 +12,14 @@
 
 <img alt="Polywork" src="https://img.shields.io/badge/Polywork-aaishika-%23543DE0.svg?&style=for-the-badge&logo=polywork&logoColor=white"/><br>
 
-- Developer Advocate Intern at [DigitalOcean](https://www.digitalocean.com)
-- Head of Community at [codedamn](https://www.codedamn.com)
+- Developer Advocate at [DigitalOcean](https://www.digitalocean.com)
 - Mentor students and help budding developers be better
 - Active [GitHub Campus Expert](https://education.github.com/experts), [DigitalOcean Navigator](https://www.digitalocean.com/community/pages/digitalocean-navigators) and [Alexa Student Influencer](https://developer.amazon.com/en-IN/alexa/alexa-student-influencer)
-- GDSC Lead '21 and Hack Club Lead
+- GDSC Lead & Hack Club Lead '22
 - Ambassador at [Auth0](https://auth0.com/) and [Prisma](https://www.prisma.io/)
 - Ex-Ops Intern at [Aviyel](https://www.aviyel.com)
 - Ex-Coach at [Major League Hacking](https://www.mlh.io)
-- Participate in hackathons avidly - [Devpost](https://devpost.com/aaishika)
+- Participate in hackathons avidly - [Devpost](https://devpost.com/aaishika), [Devfolio](https://www.devfolio.com/@aaishika)
 - Write blogs on [Medium](https://www.medium.com/@Aaishika)
 - Upload byte-sized videos on my [YouTube Channel](https://www.youtube.com/c/AaishikaSBhattacharya)
 
@@ -43,4 +42,4 @@ I am into Web & App Development, Cloud Computing, Internet of Things, and Develo
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-in/aaishika-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/><br>
 <img alt="Twitter" src="https://img.shields.io/badge/TWITTER - aaishika-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> <br>
 <img alt="Medium" src="https://img.shields.io/badge/Medium-@aaishika-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/><br>
-<img alt="Youtube" src="https://img.shields.io/badge/YouTube-aaishika s bhattacharya-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
+<img alt="Youtube" src="https://img.shields.io/badge/YouTube-@aaishikasb-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
