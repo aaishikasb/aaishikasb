@@ -48,9 +48,4 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Get in Touch 📱
 
-<img alt="Linktree" src="https://img.shields.io/badge/Linktree-aaishika-%231de9b6.svg?&style=for-the-badge&logo=linktree&logoColor=white"/>
-<img alt="Polywork" src="https://img.shields.io/badge/Polywork-aaishika-%23543DE0.svg?&style=for-the-badge&logo=polywork&logoColor=white"/>
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-in/aaishika-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img alt="Twitter" src="https://img.shields.io/badge/TWITTER - aaishika-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
-<img alt="Medium" src="https://img.shields.io/badge/Medium-@aaishika-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>
-<img alt="Youtube" src="https://img.shields.io/badge/YouTube-@aaishikasb-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
+<img alt="Linktree" src="https://img.shields.io/badge/Linktree-aaishika-%231de9b6.svg?&style=for-the-badge&logo=linktree&logoColor=white"/> <img alt="Polywork" src="https://img.shields.io/badge/Polywork-aaishika-%23543DE0.svg?&style=for-the-badge&logo=polywork&logoColor=white"/> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-in/aaishika-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> <img alt="Twitter" src="https://img.shields.io/badge/TWITTER - aaishika-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> <img alt="Medium" src="https://img.shields.io/badge/Medium-@aaishika-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/> <img alt="Youtube" src="https://img.shields.io/badge/YouTube-@aaishikasb-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
