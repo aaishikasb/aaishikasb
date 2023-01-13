@@ -1,0 +1,32 @@
+name: README with Office Quote
+
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+jobs:
+  update-readme-with-office-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install Node
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+      - name: Install dependencies
+        run: npm install
+      - name: Get quote and write new README
+        run: node .
+      - name: Add README to repo
+        run: |
+          git config pull.rebase false
+          git pull
+          git add .
+          git config --global user.name "aaishikasb"
+          git config --global user.email "mail.aaishika@gmail.com"
+          git commit -m "[Automated] feat: Update Quote"
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}

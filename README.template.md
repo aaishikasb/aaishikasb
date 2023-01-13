@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office 
-💬 "I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs."
+💬 "{{office_quote}}"
 
-&mdash; `Andy Bernard`
+&mdash; `{{office_quoted_by}}`
