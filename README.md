@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "I feel like all my kids grew up, and then they married each other. It’s every parent’s dream."
+💬 "Did I stutter?"
 
-&mdash; `Michael Scott`
+&mdash; `Stanley Hudson`
