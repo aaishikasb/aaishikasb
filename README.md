@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office 
-💬 "Dwight, you ignorant slut!"
+💬 "Sorry I annoyed you with my friendship."
 
-&mdash; `Michael Scott`
+&mdash; `Andy Bernard`
