@@ -13,12 +13,12 @@ jobs:
       - name: Install Node
         uses: actions/setup-node@v2
         with:
-          node-version: '16'
-      - name: Install dependencies
+          node-version: '14'
+      - name: Install Dependencies
         run: npm install
-      - name: Get quote and write new README
+      - name: Get Quote and Update README
         run: node .
-      - name: Add README to repo
+      - name: Add README to Stage
         run: |
           git config pull.rebase false
           git pull
@@ -26,7 +26,7 @@ jobs:
           git config --global user.name "aaishikasb"
           git config --global user.email "mail.aaishika@gmail.com"
           git commit -m "[Automated] feat: Update Quote"
-      - name: Push
+      - name: Push Updated README
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
