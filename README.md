@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "It has to be official, and it has to be urine."
+💬 "I wish there was a way to know you’re in the good old days, before you’ve actually left them."
 
-&mdash; `Dwight Schrute`
+&mdash; `Andy Bernard`
