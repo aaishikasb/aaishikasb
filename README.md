@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "I'm glad Michael's getting help. He has a lot of issues, and he's stupid."
+💬 "Did I stutter?"
 
-&mdash; `Phyllis Lapin`
+&mdash; `Stanley Hudson`
