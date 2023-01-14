@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "Bears, Beets, Battlestar Galactica."
+💬 "There’s a lot of beauty in ordinary things. Isn’t that kind of the point?"
 
-&mdash; `Jim Halpert`
+&mdash; `Pam Beesly`
