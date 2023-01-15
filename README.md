@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "I am immensely proud of what I did for that turtle!"
+💬 "I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair."
 
-&mdash; `Kevin Malone`
+&mdash; `Angela Martin`
