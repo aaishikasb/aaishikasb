@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "Shut up about the sun. SHUT UP ABOUT THE SUN!"
+💬 "I am immensely proud of what I did for that turtle!"
 
-&mdash; `Gabe Lewis`
+&mdash; `Kevin Malone`
