@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "Did I stutter?"
+💬 "I am immensely proud of what I did for that turtle!"
 
-&mdash; `Stanley Hudson`
+&mdash; `Kevin Malone`
