@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "I feel God in this Chili’s tonight."
+💬 "If you pray enough, you can change yourself into a cat person."
 
-&mdash; `Pam Beesly`
+&mdash; `Angela Martin`
