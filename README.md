@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time."
+💬 "You can't let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. 'Oh I like your dress, but I'd like it more if you had prettier hair.'"
 
-&mdash; `Jim Halpert`
+&mdash; `Andy Bernard`
