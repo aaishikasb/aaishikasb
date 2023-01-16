@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "Well, Happy Birthday Jesus. Sorry your party’s so lame."
+💬 "I. Declare. Bankruptcy!"
 
 &mdash; `Michael Scott`
