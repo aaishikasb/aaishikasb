@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "I. Declare. Bankruptcy!"
+💬 "Shut up about the sun. SHUT UP ABOUT THE SUN!"
 
-&mdash; `Michael Scott`
+&mdash; `Gabe Lewis`
