@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera."
+💬 "There’s a lot of beauty in ordinary things. Isn’t that kind of the point?"
 
-&mdash; `Erin Hannon`
+&mdash; `Pam Beesly`
