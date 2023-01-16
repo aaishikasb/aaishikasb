@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "There’s a lot of beauty in ordinary things. Isn’t that kind of the point?"
+💬 "I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair."
 
-&mdash; `Pam Beesly`
+&mdash; `Angela Martin`
