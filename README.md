@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "You can't let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. 'Oh I like your dress, but I'd like it more if you had prettier hair.'"
+💬 "There’s a lot of beauty in ordinary things. Isn’t that kind of the point?"
 
-&mdash; `Andy Bernard`
+&mdash; `Pam Beesly`
