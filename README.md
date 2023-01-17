@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "Once every hour, someone is involved in an internet scam. That man is Michael Scott."
+💬 "I. Declare. Bankruptcy!"
 
-&mdash; `Pam Beesly`
+&mdash; `Michael Scott`
