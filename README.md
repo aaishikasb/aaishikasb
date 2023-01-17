@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "Once every hour, someone is involved in an internet scam. That man is Michael Scott."
+💬 "Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way."
 
-&mdash; `Pam Beesly`
+&mdash; `Michael Scott`
