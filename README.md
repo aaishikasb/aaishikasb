@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way."
+💬 "Did I stutter?"
 
-&mdash; `Michael Scott`
+&mdash; `Stanley Hudson`
