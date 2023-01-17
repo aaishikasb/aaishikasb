@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "I. Declare. Bankruptcy!"
+💬 "Occasionally, I’ll hit somebody with my car. So sue me."
 
 &mdash; `Michael Scott`
