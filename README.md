@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "Dwight, you ignorant slut!"
+💬 "Well, Happy Birthday Jesus. Sorry your party’s so lame."
 
 &mdash; `Michael Scott`
