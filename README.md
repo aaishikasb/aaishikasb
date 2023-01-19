@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time."
+💬 "If you pray enough, you can change yourself into a cat person."
 
-&mdash; `Jim Halpert`
+&mdash; `Angela Martin`
