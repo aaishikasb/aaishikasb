@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist."
+💬 "Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way."
 
-&mdash; `Toby Flenderson`
+&mdash; `Michael Scott`
