@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair."
+💬 "I have a lot of questions. Number one, how dare you?"
 
-&mdash; `Angela Martin`
+&mdash; `Kelly Kapoor`
