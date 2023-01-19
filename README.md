@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "Well, Happy Birthday Jesus. Sorry your party’s so lame."
+💬 "I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time."
 
-&mdash; `Michael Scott`
+&mdash; `Jim Halpert`
