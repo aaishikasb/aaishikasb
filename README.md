@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "If you pray enough, you can change yourself into a cat person."
+💬 "Dwight, you ignorant slut!"
 
-&mdash; `Angela Martin`
+&mdash; `Michael Scott`
