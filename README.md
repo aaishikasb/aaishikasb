@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "It has to be official, and it has to be urine."
+💬 "I am immensely proud of what I did for that turtle!"
 
-&mdash; `Dwight Schrute`
+&mdash; `Kevin Malone`
