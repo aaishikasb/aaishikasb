@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "There’s a lot of beauty in ordinary things. Isn’t that kind of the point?"
+💬 "And I knew exactly what to do. But in a much more real sense, I had no idea what to do."
 
-&mdash; `Pam Beesly`
+&mdash; `Michael Scott`
