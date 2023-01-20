@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband."
+💬 "Well, Happy Birthday Jesus. Sorry your party’s so lame."
 
-&mdash; `Oscar Martinez`
+&mdash; `Michael Scott`
