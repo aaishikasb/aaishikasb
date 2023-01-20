@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice."
+💬 "There’s a lot of beauty in ordinary things. Isn’t that kind of the point?"
 
-&mdash; `Michael Scott`
+&mdash; `Pam Beesly`
