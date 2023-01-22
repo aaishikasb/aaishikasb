@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day."
+💬 "Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing."
 
-&mdash; `Stanley Hudson`
+&mdash; `Dwight Schrute`
