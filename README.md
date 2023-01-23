@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair."
+💬 "Occasionally, I’ll hit somebody with my car. So sue me."
 
-&mdash; `Angela Martin`
+&mdash; `Michael Scott`
