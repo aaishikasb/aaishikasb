@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "And I knew exactly what to do. But in a much more real sense, I had no idea what to do."
+💬 "Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way."
 
 &mdash; `Michael Scott`
