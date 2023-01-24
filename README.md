@@ -52,6 +52,6 @@ Find me building the randomest of things here and scaling communities! 💪
 
 # Before You Go 📺
 ## Here's a Quote from The Office (Updated Every Hour)
-💬 "It has to be official, and it has to be urine."
+💬 "I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband."
 
-&mdash; `Dwight Schrute`
+&mdash; `Oscar Martinez`
