@@ -1,4 +1,4 @@
-![Header](assets/banner.png "Header Image")
+![Header](assets/Banner.png "Header Image")
 
 **Thanks for stopping by!**
 
