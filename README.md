@@ -25,7 +25,7 @@
 
 ## Stack and Tools 🤯
 
-![GIF](https://www.learnupon.com/wp-content/uploads/@2x-Blog-Technical-Skills-animation.gif)
+![GIF](assets/stacks.gif)
 
 ---
 
@@ -51,7 +51,7 @@
 \
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-![GIF](assets/Error.gif)
+![GIF](assets/links.gif)
 
 ## Get in Touch 📱
 
