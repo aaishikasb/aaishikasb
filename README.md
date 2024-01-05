@@ -1,8 +1,11 @@
 ![Header](assets/Banner.png "Header Image")
 
-**Thanks for stopping by!**
+**Thanks for stopping by! 👋**
 
-![Profile Views](https://komarev.com/ghpvc/?username=aaishikasb&style=for-the-badge&label=HOW+MANY+TIMES+HAVE+OTHERS+VISITED+👀)
+How many times have others visited?
+\
+![Profile Views](https://komarev.com/ghpvc/?username=aaishikasb&style=for-the-badge&label=%20👀%20) ![GitHub Followers](https://img.shields.io/github/followers/aaishikasb?style=for-the-badge&logo=github
+)
 
 ## Things I Do 🧑‍💻
 
@@ -21,7 +24,8 @@
 - Write blogs on [Medium](https://www.medium.com/@Aaishika) & [Hashnode](https://blogs.aaishika.com/).
 - Upload beginner-friendly videos on my [YouTube Channel](https://www.youtube.com/c/AaishikaSBhattacharya)!
 
-  [![Views](https://img.shields.io/youtube/channel/views/UCIWbBxuwFhKuiikJrrqRCUQ?style=for-the-badge&logo=youtube)](https://youtube.com/@Aaishika) [![Subs](https://img.shields.io/youtube/channel/subscribers/UCIWbBxuwFhKuiikJrrqRCUQ?style=for-the-badge&logo=youtube)](https://youtube.com/@Aaishika)
+  [![Views](https://img.shields.io/youtube/channel/views/UCIWbBxuwFhKuiikJrrqRCUQ?style=for-the-badge&color=%23FF0000&logo=youtube
+)](https://youtube.com/@Aaishika) [![Subs](https://img.shields.io/youtube/channel/subscribers/UCIWbBxuwFhKuiikJrrqRCUQ?style=for-the-badge&color=%23FF0000&logo=youtube)](https://youtube.com/@Aaishika)
 
 ## Stack and Tools 🤯
 
