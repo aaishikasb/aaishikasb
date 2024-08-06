@@ -16,16 +16,19 @@ How many times have others visited?
 - Find me building the randomest of things here and scaling communities! 💪
 - Mentor students and help budding developers be better!
 - Jr. Developer Advocate at [DigitalOcean](https://www.digitalocean.com).
-- Active [GitHub Campus Expert](https://education.github.com/experts)!
+- Alumni [GitHub Campus Expert](https://education.github.com/experts)!
 - [GDSC Lead](https://developers.google.com/community/gdsc/leads) '22 & [Hack Club](https://hackclub.com/) Lead '21.
 - Previously - Developer Relations Intern at [codedamn](https://codedamn.com/) & Operations Intern at [Aviyel](https://www.aviyel.com).
 - Also Previously - Coach at [Major League Hacking](https://www.mlh.io).
 - Participate in hackathons avidly - check [Devpost](https://devpost.com/aaishika), [Devfolio](https://www.devfolio.com/@aaishika)!
-- Write blogs on [Medium](https://www.medium.com/@Aaishika) & [Hashnode](https://blogs.aaishika.com/).
+- Write blogs on [Hashnode](https://blogs.aaishika.com/) & [Medium](https://www.medium.com/@Aaishika).
 - Upload beginner-friendly videos on my [YouTube Channel](https://www.youtube.com/c/AaishikaSBhattacharya)!
 
   [![Views](https://img.shields.io/youtube/channel/views/UCIWbBxuwFhKuiikJrrqRCUQ?style=for-the-badge&color=%23FF0000&logo=youtube
 )](https://youtube.com/@Aaishika) [![Subs](https://img.shields.io/youtube/channel/subscribers/UCIWbBxuwFhKuiikJrrqRCUQ?style=for-the-badge&color=%23FF0000&logo=youtube)](https://youtube.com/@Aaishika)
+
+## Certifications 🏅
+![GitHub Foundations](assets/github-foundations.png) ![GitHub Actions](assets/github-actions.png)
 
 ## Stack and Tools 🤯
 
