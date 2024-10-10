@@ -7,17 +7,19 @@ How many times have others visited?
 ![Profile Views](https://komarev.com/ghpvc/?username=aaishikasb&style=for-the-badge&label=%20👀%20) ![GitHub Followers](https://img.shields.io/github/followers/aaishikasb?style=for-the-badge&logo=github
 )
 
+## About Me 🤓
+
+- 📣 I am Aaishika and I curate use-case-based content, organize community-centric events, and time to time write indecipherable code.
+- 🦆 Find me building the randomest of things here and scaling communities!
+- 🔭 Interests outside of Tech: Astronomy, Cinematography, ~~Watching stray cats cause ruckus~~
+
 ## Things I Do 🧑‍💻
 
 ### Community ◦ Open Source ◦ Development
 
 > Also `npx aaishika` for a quick intro on your terminal!
 
-- 🦆 Find me building the randomest of things here and scaling communities!
-- 🤓 Curate use-case-based content, organize community-centric events.
-- 🥑 Jr. Developer Advocate at [DigitalOcean](https://www.digitalocean.com).
-- 🔭 Interests outside of Tech: Astronomy, Cinematography, ~~Watching stray cats cause ruckus~~
-- 💼 Previously - Developer Relations Intern at [codedamn](https://codedamn.com/) & Operations Intern at [Aviyel](https://www.aviyel.com).
+- 💼 Previously - Jr. Developer Advocate at [DigitalOcean](https://www.digitalocean.com), Developer Relations Intern at [codedamn](https://codedamn.com/) & Operations Intern at [Aviyel](https://www.aviyel.com).
 - 🚩 And previously [GitHub Campus Expert](https://education.github.com/experts)!
 - 👨🏻‍💻 Also previously; Coach at [Major League Hacking](https://www.mlh.io).
 - 🌱 [GDSC Lead](https://developers.google.com/community/gdsc/leads) '22 & [Hack Club](https://hackclub.com/) Lead '21.
@@ -30,7 +32,7 @@ How many times have others visited?
 
 ## Certifications 🏅
 
-![GitHub Foundations](repository-assets/github-foundations.png) ![GitHub Actions](repository-assets/github-actions.png)
+![GitHub Foundations](repository-assets/github-foundations.png) ![GitHub Actions](repository-assets/github-actions.png) ![GitHub Copilot](repository-assets/github-copilot.png)
 
 ## Stack and Tools 🤯
 
