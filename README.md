@@ -10,6 +10,7 @@ How many times have others visited?
 ## About Me 🤓
 
 - 📣 I am Aaishika and I curate use-case-based content, organize community-centric events, and time to time write indecipherable code.
+- 🚢 I wear multiple hats as a Lead Developer Advocate at [Toolhouse](https://app.toolhouse.ai)!
 - 🦆 Find me building the randomest of things here and scaling communities!
 - 🔭 Interests outside of Tech: Astronomy, Cinematography, ~~Watching stray cats cause ruckus~~
 
@@ -17,7 +18,8 @@ How many times have others visited?
 
 ### Community ◦ Open Source ◦ Development
 
-> Also `npx aaishika` for a quick intro on your terminal!
+> [!NOTE]
+> Run `npx aaishika` for a quick intro on your terminal!
 
 - 💼 Previously - Jr. Developer Advocate at [DigitalOcean](https://www.digitalocean.com), Developer Relations Intern at [codedamn](https://codedamn.com/) & Operations Intern at [Aviyel](https://www.aviyel.com).
 - 🚩 And previously [GitHub Campus Expert](https://education.github.com/experts)!
@@ -32,7 +34,7 @@ How many times have others visited?
 
 ## Certifications 🏅
 
-![GitHub Foundations](repository-assets/github-foundations.png) ![GitHub Actions](repository-assets/github-actions.png) ![GitHub Copilot](repository-assets/github-copilot.png)
+[![GitHub Foundations](repository-assets/github-foundations.png)](https://www.credly.com/earner/earned/badge/b7520be1-6700-4978-b58b-665ac5eb8a11) [![GitHub Actions](repository-assets/github-actions.png)](https://www.credly.com/earner/earned/badge/ac7e3ce2-4ef1-4af5-a9b4-7ea2a1649ceb) [![GitHub Copilot](repository-assets/github-copilot.png)](https://www.credly.com/earner/earned/badge/cb23b6a9-3d93-4797-a2ff-f4db39604c7f) [![GitHub Advanced Security](repository-assets/github-advanced-security.png)](https://www.credly.com/earner/earned/badge/56ad620a-eb9b-4f78-9dab-cdab4c6f2e75) [![GitOps Fundamentals](repository-assets/gitops-fundamentals.png)](https://www.credly.com/earner/earned/badge/e0a0a336-a2a0-4274-be8f-b3c90ba2e9bb)
 
 ## Stack and Tools 🤯
 
