@@ -34,7 +34,7 @@ How many times have others visited?
 
 ## Certifications 🏅
 
-[![GitHub Foundations](repository-assets/github-foundations.png)](https://www.credly.com/earner/earned/badge/b7520be1-6700-4978-b58b-665ac5eb8a11) [![GitHub Actions](repository-assets/github-actions.png)](https://www.credly.com/earner/earned/badge/ac7e3ce2-4ef1-4af5-a9b4-7ea2a1649ceb) [![GitHub Copilot](repository-assets/github-copilot.png)](https://www.credly.com/earner/earned/badge/cb23b6a9-3d93-4797-a2ff-f4db39604c7f) [![GitHub Advanced Security](repository-assets/github-advanced-security.png)](https://www.credly.com/earner/earned/badge/56ad620a-eb9b-4f78-9dab-cdab4c6f2e75) [![GitOps Fundamentals](repository-assets/gitops-fundamentals.png)](https://www.credly.com/earner/earned/badge/e0a0a336-a2a0-4274-be8f-b3c90ba2e9bb)
+[![GitHub Foundations](repository-assets/github-foundations.png)](https://www.credly.com/badges/b7520be1-6700-4978-b58b-665ac5eb8a11/public_url) [![GitHub Actions](repository-assets/github-actions.png)](https://www.credly.com/badges/ac7e3ce2-4ef1-4af5-a9b4-7ea2a1649ceb/public_url) [![GitHub Copilot](repository-assets/github-copilot.png)](https://www.credly.com/badges/cb23b6a9-3d93-4797-a2ff-f4db39604c7f/public_url) [![GitHub Advanced Security](repository-assets/github-advanced-security.png)](https://www.credly.com/badges/56ad620a-eb9b-4f78-9dab-cdab4c6f2e75/public_url) [![GitHub Administration](repository-assets/github-administration.png)](https://www.credly.com/badges/240ed457-ae3d-43eb-9daa-bbb6f19fcf75/public_url) [![GitOps Fundamentals](repository-assets/gitops-fundamentals.png)](https://www.credly.com/badges/e0a0a336-a2a0-4274-be8f-b3c90ba2e9bb/public_url) [![GitOps at Scale](repository-assets/gitops-at-scale.png)](https://www.credly.com/badges/8c0a27c9-1a2c-417a-b9cb-662da165578e/public_url)
 
 ## Stack and Tools 🤯
 
@@ -71,9 +71,3 @@ How many times have others visited?
 > The username is **aaishika** everywhere to be honest...
 
 [![X](https://img.shields.io/badge/X-@aaishika-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/aaishika) [![Peerlist](https://github-readme-badge.peerlist.io/api/aaishika?style=for-the-badge)](https://peerlist.io/aaishika) [![LinkedIn](https://img.shields.io/badge/linkedin-in/aaishika-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/aaishika/) [![Medium](https://img.shields.io/badge/Medium-@aaishika-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white")](https://medium.com/@aaishika) [![Hashnode](https://img.shields.io/badge/Hashnode-@AAISHIKA-2962FF?style=for-the-badge&logo=hashnode&logoColor=white")](https://blogs.aaishika.com/) [![YouTube](https://img.shields.io/badge/YouTube-@aaishika-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@Aaishika)
-
-## Outro ✨
-
-### 💬 "Out beyond ideas of wrongdoing and rightdoing, there is a field. I'll meet you there. When the soul lies down in that grass, the world is too full to talk about."
-
-#### `Rumi`
