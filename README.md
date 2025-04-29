@@ -10,7 +10,7 @@ How many times have others visited?
 ## About Me 🤓
 
 - 📣 I am Aaishika and I curate use-case-based content, organize community-centric events, and time to time write indecipherable code.
-- 🚢 I wear multiple hats as a Lead Developer Advocate at [Toolhouse](https://app.toolhouse.ai)!
+- 🚢 I design developer engagement programs and work on community-centric initiatives at [ngrok](http://ngrok.com)!
 - 🦆 Find me building the randomest of things here and scaling communities!
 - 🔭 Interests outside of Tech: Astronomy, Cinematography, ~~Watching stray cats cause ruckus~~
 
@@ -21,7 +21,7 @@ How many times have others visited?
 > [!NOTE]
 > Run `npx aaishika` for a quick intro on your terminal!
 
-- 💼 Previously - Jr. Developer Advocate at [DigitalOcean](https://www.digitalocean.com), Developer Relations Intern at [codedamn](https://codedamn.com/) & Operations Intern at [Aviyel](https://www.aviyel.com).
+- 💼 Previously - Lead Developer Advocate at Toolhouse, Jr. Developer Advocate at [DigitalOcean](https://www.digitalocean.com), Developer Relations Intern at [codedamn](https://codedamn.com/) & Operations Intern at [Aviyel](https://www.aviyel.com).
 - 🚩 And previously [GitHub Campus Expert](https://education.github.com/experts)!
 - 👨🏻‍💻 Also previously; Coach at [Major League Hacking](https://www.mlh.io).
 - 🌱 [GDSC Lead](https://developers.google.com/community/gdsc/leads) '22 & [Hack Club](https://hackclub.com/) Lead '21.
