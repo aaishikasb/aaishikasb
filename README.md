@@ -1,4 +1,4 @@
-![Header](repository-assets/banner.png "Header Image")
+![Header](repository-assets/Banner.png "Header Image")
 
 **Thanks for stopping by! 👋**
 
