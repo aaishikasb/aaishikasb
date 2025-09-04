@@ -1,4 +1,4 @@
-![Header](repository-assets/Banner.png "Header Image")
+![Header](repository-assets/banner.png "Header Image")
 
 **Thanks for stopping by! 👋**
 
@@ -10,8 +10,8 @@ How many times have others visited?
 ## About Me 🤓
 
 - 📣 I am Aaishika and I curate use-case-based content, organize community-centric events, and time to time write indecipherable code.
-- 🚢 I design developer engagement programs and work on community-centric initiatives at [ngrok](http://ngrok.com)!
-- 🦆 Find me building the randomest of things here and scaling communities!
+- 🚢 I design developer engagement programs and scale community initiatives at [`ngrok`](http://ngrok.com) as a `Community Manager`!
+- 🦆 Find me building the randomest of things here.
 - 🔭 Interests outside of Tech: Astronomy, Cinematography, ~~Watching stray cats cause ruckus~~
 
 ## Things I Do 🧑‍💻
